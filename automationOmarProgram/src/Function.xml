@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testing.org/testing-1.0dtd">
+<suite name="Adhoc"> 
+<test>>tsetse name="Regression">
+</classes>
+
+<class name=" piit.automationOmarProgram.ActionsToPointer"></class>
+<class name=" PageObjectModel.ForgotPasswordPage"></class>
+</classes>
+</test>
+</suite>
